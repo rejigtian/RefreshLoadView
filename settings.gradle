@@ -1,3 +1,2 @@
 include ':RefreshLoadView'
-include ':app'
 rootProject.name = "RefreshLoadView"
