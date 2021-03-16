@@ -1,6 +1,7 @@
-plugins {
-    id 'com.android.library'
-}
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.rejigtian '
+
 
 android {
     compileSdkVersion 30
