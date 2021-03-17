@@ -1,2 +1,3 @@
 include ':app'
+include ':RefreshLoadView'
 rootProject.name = "refreshLoad"
